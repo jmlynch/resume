@@ -1,7 +1,7 @@
 ## Jason Lynch <br>email: jmlynch [@] gmail.com
 #### Employment
 ##### Target Corporation 
-##### Lead Engineer (Cyber Security - Threat Intel Detection Engineering) 
+##### Lead Engineer, Threat Intel Detection Engineering 
 ##### February 2018 - Present
 - Pioneered the development and execution of process to track and collect on identified high priority threat actors.
 - Developed standards and guidance for documenting, storing and tagging of collected intel & indicators of compromise. 
