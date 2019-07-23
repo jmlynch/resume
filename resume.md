@@ -30,7 +30,7 @@
 ##### January 2014 – November 2014
 - Assisted TAP customers with the planning and deployment of product in their environment.
 - Hunted for threat group activity in customer environments using TAP product.
-- Developed and deployed detection content.t
+- Developed and deployed detection content
 ##### General Electric
 ##### Detection Architect
 ##### January 2012 - January 2014
